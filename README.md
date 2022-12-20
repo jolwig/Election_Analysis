@@ -5,7 +5,7 @@ The purpose of this analysis is to find out which candidate won the election and
 
 ## Election Results
 
-![Election_Results]("https://github.com/jolwig/Election_Analysis/blob/main/analysis/election_analysis.txt")
+![Election_Results](https://github.com/jolwig/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 
 ## Summary
